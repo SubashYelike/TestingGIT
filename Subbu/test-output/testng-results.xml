@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-21T15:47:39 IST" name="Suite" finished-at="2023-03-21T15:48:26 IST" duration-ms="47635">
+    <groups>
+    </groups>
+    <test started-at="2023-03-21T15:47:39 IST" name="Test" finished-at="2023-03-21T15:48:26 IST" duration-ms="47635">
+      <class name="SeleniumPrograms.ParllelTest">
+        <test-method signature="ChromeLogin()[pri:0, instance:SeleniumPrograms.ParllelTest@5562c41e]" started-at="2023-03-21T15:47:39 IST" name="ChromeLogin" finished-at="2023-03-21T15:48:26 IST" duration-ms="47591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChromeLogin -->
+        <test-method signature="FireFoxLogin()[pri:0, instance:SeleniumPrograms.ParllelTest@5562c41e]" started-at="2023-03-21T15:47:39 IST" name="FireFoxLogin" finished-at="2023-03-21T15:47:52 IST" duration-ms="12712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FireFoxLogin -->
+      </class> <!-- SeleniumPrograms.ParllelTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
